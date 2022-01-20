@@ -449,6 +449,32 @@
   height: 200px;
 }
 
+.gradientCover {
+  width: 200px;
+  height: 200px;
+  margin: 20px 0 0 0;
+}
+
+.imageScroll {
+  padding: 50px 0;
+  height: 1500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  overflow: auto;
+}
+
+.imageWrapper {
+  height: 350px;
+  width: 350px;
+}
+
+.imageInfo {
+  margin: 0 auto;
+  font-weight: bold;
+}
+
 .input {
   width: 250px !important;
 }
@@ -510,4 +536,4 @@
 }
 
 
-/*# sourceMappingURL=main.b84fe9ba.chunk.css.map*/
+/*# sourceMappingURL=main.f0787590.chunk.css.map*/
